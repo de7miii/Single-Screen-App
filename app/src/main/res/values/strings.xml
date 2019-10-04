@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pizza Corner</string>
+    <string name="restaurant_address">Abdalla Al-Tayeb Street, Khartoum</string>
+    <string name="phone_number">+249 912 345 6789</string>
+    <string name="image_description">Pizza restaurant</string>
+    <string name="address_label">Address:</string>
+    <string name="phone_number_label">Phone Number:</string>
+    <string name="working_hours_label">Working Hours:</string>
+    <string name="sat_to_thu">Saturday - Thursday: \n8AM - 12PM || 4PM - 12AM</string>
+    <string name="fri">Friday: \n4PM - 12AM</string>
+    <string name="description">Pizza Corner is a restaurant specialized in pastries of all kinds ranging from Pizzas, Pies, Cakes ets... Quality is what we strive for in our small shop where we deliver you a piece of love.</string>
+    <string name="photo_credit">Photo by Vaishnav Chogale on Unsplash</string>
+</resources>
