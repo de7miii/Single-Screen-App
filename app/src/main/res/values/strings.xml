@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Pizza Corner</string>
     <string name="restaurant_address">Abdalla Al-Tayeb Street, Khartoum</string>
-    <string name="phone_number">+249 912 345 6789</string>
+    <string name="phone_number">09123456789</string>
     <string name="image_description">Pizza restaurant</string>
     <string name="address_label">Address:</string>
     <string name="phone_number_label">Phone Number:</string>
