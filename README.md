@@ -1,3 +1,5 @@
+# Single Screen App
+
 This App is part of Udacity's Android Basics Nanodegree.
 
 **Project Overview**
